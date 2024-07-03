@@ -1,4 +1,4 @@
-🫂 welcome to my space!
+🫂 Welcome to my space!
 My name's Lu 😊
 
 🛜 Inniciate Programming student 🛰️​
