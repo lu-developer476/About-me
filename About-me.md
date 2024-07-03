@@ -5,7 +5,7 @@ My name's Lu 😊
 🛜 Inniciate Programming student 🛰️​
 
 🖥️⌨️ How do you can contact me? -----> lucasmontenegroburgos@gmail.com
-    Whatever you need, just ask 🫂
+    whatever you need, just ask 🫂
 
 🤓​​
 My knowledges about Languages and Tools:
