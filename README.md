@@ -2,7 +2,6 @@ Hey, welcome to my space!
 My name's Lu 😊
 
 🧑🏼‍💻​ Just about me:
-back-end developer
 🛜 Inniciate Programming student 🛰️​
 
 📫 How do you can contact me? -----> lucasmontenegroburgos@gmail.com 🫂
@@ -17,7 +16,8 @@ My knowledges about Languages and Tools:
     Databases
     Data Governance
     Digital Tools and Collaborative Work
-    JAVASCRIPT
+    JavaScript
+    Microsoft Office bundle
     Microsoft Teams
     Power Bi: Learn how to visualize your data
     Project Scalability
