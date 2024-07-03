@@ -3,10 +3,11 @@ My name's Lu 😊
 
 🛜 Inniciate Programming student 🛰️​
 
-🖥️⌨️ How do you can contact me? -----> lucasmontenegroburgos@gmail.com
+🖥️ How do you can contact me? -----> lucasmontenegroburgos@gmail.com
     whatever you need, just ask 🫂
+⌨️
 
-🤓​​
+🤓 ​​
 My knowledges about Languages and Tools:
 
     Adobe Dreamweaver
