@@ -1,7 +1,6 @@
 Hey, welcome to my space!
 My name's Lu 😊
 
-🧑🏼‍💻​ Just about me:
 🛜 Inniciate Programming student 🛰️​
 
 🖥️⌨️ How do you can contact me? -----> lucasmontenegroburgos@gmail.com
