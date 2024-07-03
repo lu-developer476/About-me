@@ -24,5 +24,5 @@ My knowledges about Languages and Tools:
     Project Scalability
     Python
     SQL: Learned to organize databases
-    Tello
+    Trello
     Web Layout
