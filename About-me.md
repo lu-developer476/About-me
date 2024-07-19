@@ -14,6 +14,7 @@ My knowledges about Languages and Tools:
     Adobe Illustrator
     Adobe Photoshop
     C-Sharp
+    Collaborative work
     Databases
     Data Governance
     Digital Tools and Collaborative Work
@@ -21,8 +22,13 @@ My knowledges about Languages and Tools:
     Microsoft Office bundle
     Microsoft Teams
     Power Bi: Learn how to visualize your data
+    Project Management: Document Development
+    Project Management: Project Life Cycle
+    Project Management: Results Oriented Management
     Project Scalability
+    Public innovation
     Python
     SQL: Learned to organize databases
     Trello
+    UX Writing
     Web Layout
