@@ -1,6 +1,8 @@
 🫂 Welcome to my space!
 My name's Lu 😊
 
+https://www.linkedin.com/in/lucas-m-a1a1562a7/
+
 🛜 Inniciate Programming Student 🛰️​
 
 🖥️ How do you can contact me? -----> lucasmontenegroburgos@gmail.com
