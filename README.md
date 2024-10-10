@@ -15,9 +15,10 @@ My knowledges about Languages and Tools:
     Adobe Dreamweaver
     Adobe Illustrator
     Adobe Photoshop
+    Angular
     C-Sharp
     Databases
-    Data Governance
+    Data Governance & Intelligence 
     Digital Tools and Collaborative Work
     JavaScript
     Microsoft Office bundle
@@ -26,7 +27,8 @@ My knowledges about Languages and Tools:
     Project Management and Scalability
     Public innovation
     Python
+    React
     SQL
     Trello
-    UX Writing
+    UX / UI
     Web Layout
