@@ -25,7 +25,7 @@ My knowledges about Languages and Tools:
     Microsoft Teams
     Power Bi
     Project Management and Scalability
-    Public innovation
+    Public Innovation
     Python
     React
     SQL
