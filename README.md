@@ -1,7 +1,7 @@
 🫂 Welcome to my space!
 My name's Lu 😊
 
-https://www.linkedin.com/in/lucas-m-a1a1562a7/
+[https://www.linkedin.com/in/lucas-m-a1a1562a7/](https://www.linkedin.com/in/lucas-leonel-m-a1a1562a7/)
 
 🛜 Inniciate Programming Student 🛰️​
 
