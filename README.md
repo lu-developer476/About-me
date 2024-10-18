@@ -22,6 +22,7 @@ My knowledges about Languages and Tools:
     Databases
     Data Governance & Intelligence 
     Digital Tools and Collaborative Work
+    Goland
     JavaScript
     Microsoft Office bundle
     Microsoft Teams
