@@ -30,7 +30,7 @@ My knowledges about Languages and Tools:
     Project Management and Scalability
     Public Innovation
     Python
-    React
+    React.Js
     SQL
     Trello
     UX / UI
