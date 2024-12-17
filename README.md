@@ -18,7 +18,9 @@ My knowledges about Languages and Tools:
     Adobe Illustrator
     Adobe Photoshop
     Angular
+    Artificial Intelligence
     C-Sharp
+    Cybersecurity
     Databases
     Data Governance & Intelligence 
     Digital Tools and Collaborative Work
@@ -26,6 +28,7 @@ My knowledges about Languages and Tools:
     JavaScript
     Microsoft Office bundle
     Microsoft Teams
+    PHP
     Power Bi
     Project Management and Scalability
     Public Innovation
