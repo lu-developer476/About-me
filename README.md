@@ -9,8 +9,8 @@ Frontend Developer focused on building modern, scalable and user-centered web ex
 
 ## 🌐 Connect with me
 
-Portfolio  
-👉 [https://www.linkedin.com/in/lucas-montenegro-burgos/](https://lu-dev-portfolio.vercel.app/about)
+Portfolio
+👉 [Click here](https://lu-dev-portfolio.vercel.app/about)
 
 > If you need something — collaboration, freelance work, or just tech talk — feel free to reach out.
 
