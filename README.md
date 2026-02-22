@@ -1,40 +1,77 @@
 ![cyberpunk-edgerunners](https://github.com/user-attachments/assets/f050fe96-a553-4502-a819-02248216f462)
 
-🫂 Welcome to my space!
-My name's Lu 😊
+# 🫂 Welcome to my space!
 
-[https://www.linkedin.com/in/lucas-montenegro-burgos/](https://www.linkedin.com/in/lucas-montenegro-burgos/)
+Hi! I'm **Lu** 😊  
+Frontend Developer focused on building modern, scalable and user-centered web experiences.
 
-🛜 Inniciate Programming Student 🛰️​
+---
 
-🖥️ How do you can contact me? -----> lucasmontenegroburgos@gmail.com
-    whatever you need, just ask
-⌨️
+## 🌐 Connect with me
 
-🤓 ​​
-My knowledges about Languages and Tools:
+Portfolio  
+👉 [https://www.linkedin.com/in/lucas-montenegro-burgos/](https://lu-dev-portfolio.vercel.app/about)
 
-    Adobe Dreamweaver
-    Adobe Illustrator
-    Adobe Photoshop
-    Angular
-    Artificial Intelligence
-    C-Sharp
-    Cybersecurity
-    Databases
-    Data Governance & Intelligence 
-    Digital Tools and Collaborative Work
-    Goland
-    JavaScript
-    Microsoft Office bundle
-    Microsoft Teams
-    PHP
-    Power Bi
-    Project Management and Scalability
-    Public Innovation
-    Python
-    React.Js
-    SQL
-    Trello
-    UX / UI
-    Web Layout
+> If you need something — collaboration, freelance work, or just tech talk — feel free to reach out.
+
+---
+
+## 💼 Professional Profile
+
+🛜 Freelancer Frontend Developer  
+🛰️ Interested in Web Technologies, AI Integration and Scalable Digital Solutions  
+
+I enjoy turning complex ideas into clean, functional and attractive interfaces.
+
+---
+
+## 🧠 Knowledge & Technologies
+
+### 👨‍💻 Programming & Development
+- JavaScript
+- Python
+- React.js
+- SQL
+- Databases (Relational & Concepts)
+
+### 🎨 Design & UX
+- UX / UI Principles
+- Web Layout & Responsive Design
+- Adobe Illustrator
+- Adobe Photoshop
+- Adobe Dreamweaver
+
+### 📊 Data & Business Tools
+- Power BI
+- Data Governance & Intelligence
+- Microsoft Office Suite
+- Microsoft Teams
+
+### 🛠 Workflow & Management
+- Project Management
+- Scalability Concepts
+- Public Innovation
+- Trello
+
+### 🤖 Other Areas
+- AI Tools & Applied Concepts
+
+---
+
+## 🚀 Currently Focused On
+
+- Frontend Architecture
+- Performance Optimization
+- Clean UI Systems
+- AI + Web Integration
+- Scalable Web Applications
+
+---
+
+## ⚡ Fun Fact
+
+I like mixing design, logic and futuristic aesthetics (yes, Cyberpunk vibes included).
+
+---
+
+⭐ Thanks for visiting my profile!
