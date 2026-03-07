@@ -9,7 +9,7 @@ Frontend Developer focused on building modern, scalable and user-centered web ex
 
 ## 🌐 Connect with me
 
-👉 [Click here](https://img.shields.io/badge/Portfolio-Visit%20Website-ff4f78?style=for-the-badge)](https://lu-dev-portfolio.vercel.app/)
+👉 [Click here](https://lu-dev-portfolio.vercel.app/)
 
 > If you need something — collaboration, freelance work, or just tech talk — feel free to reach out.
 
