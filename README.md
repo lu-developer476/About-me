@@ -41,6 +41,7 @@ I enjoy turning complex ideas into clean, functional and attractive interfaces.
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Dreamweaver](https://img.shields.io/badge/Dreamweaver-FF61F6?style=for-the-badge&logo=adobedreamweaver&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### 📊 Data & Business Tools
 
