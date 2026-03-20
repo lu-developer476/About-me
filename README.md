@@ -2,7 +2,8 @@
 
 # 🫂 Welcome to my space!
 
-Hi! I'm **Lu** 😊  
+Hi! I'm **Lu** 😊
+
 Frontend Developer focused on building modern, scalable and user-centered web experiences.
 
 ---
@@ -17,7 +18,8 @@ Frontend Developer focused on building modern, scalable and user-centered web ex
 
 ## 💼 Professional Profile
 
-🛜 Freelancer Frontend Developer  
+🛜 Freelancer Frontend Developer
+
 🛰️ Interested in web technologies, AI integration and scalable digital solutions  
 
 I enjoy turning complex ideas into clean, functional and attractive interfaces.
@@ -52,8 +54,8 @@ I enjoy turning complex ideas into clean, functional and attractive interfaces.
 ![Data Governance](https://img.shields.io/badge/Data%20Governance-003366?style=for-the-badge)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
 ### 🛠 Workflow & Management
 
@@ -63,15 +65,26 @@ I enjoy turning complex ideas into clean, functional and attractive interfaces.
 
 ### ☁️ Deployment & Services
 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
 ![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🤖 Other Areas
+### 🤖 AI & Automation Stack
 
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
 ![Applied AI Concepts](https://img.shields.io/badge/Applied%20AI%20Concepts-412991?style=for-the-badge)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)
+![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![NightCafe](https://img.shields.io/badge/NightCafe-5A2D82?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![StackBlitz](https://img.shields.io/badge/StackBlitz-1269D3?style=for-the-badge&logo=stackblitz&logoColor=white)
+![V0](https://img.shields.io/badge/V0-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
