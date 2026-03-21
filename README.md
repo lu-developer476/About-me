@@ -105,9 +105,9 @@ I enjoy turning complex ideas into clean, functional and attractive interfaces.
 ### 🤖 AI & Automation Stack
 
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![NightCafe](https://img.shields.io/badge/NightCafe-5A2D82?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![V0](https://img.shields.io/badge/V0-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
