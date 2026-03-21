@@ -18,7 +18,8 @@ Frontend Developer focused on building modern, scalable and user-centered web ex
 
 ## 💼 Professional Profile
 
-🛜 Freelancer Frontend Developer  
+🛜 Freelancer Frontend Developer
+
 🛰️ Interested in web technologies, AI integration and scalable digital solutions  
 
 I enjoy turning complex ideas into clean, functional and attractive interfaces.
