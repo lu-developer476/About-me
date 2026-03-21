@@ -42,7 +42,7 @@ I enjoy turning complex ideas into clean, functional and attractive interfaces.
 
 ### ⚙️ Frameworks
 
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -67,9 +67,11 @@ I enjoy turning complex ideas into clean, functional and attractive interfaces.
 ### 🎨 Design & UX
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-0A66C2?style=for-the-badge)
 ![UX/UI](https://img.shields.io/badge/UX%2FUI-Design-blueviolet?style=for-the-badge)
+![Whimsical](https://img.shields.io/badge/Whimsical-7C3AED?style=for-the-badge)
 
 ---
 
