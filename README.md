@@ -78,8 +78,6 @@ I enjoy turning complex ideas into clean, functional and attractive interfaces.
 
 ### 🤖 AI & Automation Stack
 
-![AI Tools](https://img.shields.io/badge/AI%20Tools-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
-![Applied AI Concepts](https://img.shields.io/badge/Applied%20AI%20Concepts-412991?style=for-the-badge)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)
 ![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
