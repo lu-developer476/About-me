@@ -74,7 +74,6 @@ I enjoy turning complex ideas into clean, functional and attractive interfaces.
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-0A66C2?style=for-the-badge)
 ![UX/UI](https://img.shields.io/badge/UX%2FUI-Design-blueviolet?style=for-the-badge)
 ![Whimsical](https://img.shields.io/badge/Whimsical-7C3AED?style=for-the-badge)
-![Wix](https://img.shields.io/badge/-Wix-0C6EFC?style=flat&logo=wix&logoColor=white")
 
 ---
 
@@ -92,6 +91,7 @@ I enjoy turning complex ideas into clean, functional and attractive interfaces.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![StackBlitz](https://img.shields.io/badge/StackBlitz-1269D3?style=for-the-badge&logo=stackblitz&logoColor=white)
+![Wix](https://img.shields.io/badge/-Wix-0C6EFC?style=flat&logo=wix&logoColor=white")
 
 ---
 
