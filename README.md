@@ -68,11 +68,13 @@ I enjoy turning complex ideas into clean, functional and attractive interfaces.
 ### 🎨 Design & UX
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-0A66C2?style=for-the-badge)
 ![UX/UI](https://img.shields.io/badge/UX%2FUI-Design-blueviolet?style=for-the-badge)
 ![Whimsical](https://img.shields.io/badge/Whimsical-7C3AED?style=for-the-badge)
+![Wix](https://img.shields.io/badge/-Wix-0C6EFC?style=flat&logo=wix&logoColor=white")
 
 ---
 
