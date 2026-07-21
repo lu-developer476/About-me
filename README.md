@@ -91,7 +91,7 @@ I enjoy turning complex ideas into clean, functional and attractive interfaces.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![StackBlitz](https://img.shields.io/badge/StackBlitz-1269D3?style=for-the-badge&logo=stackblitz&logoColor=white)
-![Wix](https://img.shields.io/badge/-Wix-0C6EFC?style=flat&logo=wix&logoColor=white")
+![Wix](https://img.shields.io/badge/Wix-0C0C0C?style=for-the-badge&logo=wix&logoColor=white)
 
 ---
 
