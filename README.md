@@ -4,7 +4,7 @@
 
 Hi! I'm **Lu** 😊
 
-Frontend Developer focused on building modern, scalable and user-centered web experiences.
+**Full Stack Developer** focused on building modern, scalable and user-centered web experiences.
 
 ---
 
@@ -18,7 +18,7 @@ Frontend Developer focused on building modern, scalable and user-centered web ex
 
 ## 💼 Professional Profile
 
-🛜 Freelancer Frontend Developer
+🛜 **Full Stack Developer**
 
 🛰️ Interested in web technologies, AI integration and scalable digital solutions  
 
